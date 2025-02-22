@@ -1,0 +1,2 @@
+INSERT INTO aluno (matricula, nome, data_nascimento, curso) VALUES (123456, 'AAAAAAAAAAAAAAAAAAA', 'DD-MM-AAAA', 'BIOLOGIA');
+INSERT INTO aluno (matricula, nome, data_nascimento, curso) VALUES (654321, 'BBBBBBBBBBBBBBBBBBB', 'DD-MM-AAAA', 'MATEMÁTICA');
