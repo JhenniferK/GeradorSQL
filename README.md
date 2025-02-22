@@ -1,6 +1,8 @@
 # Gerador de SQL a partir de CSV 📊💻
 
-Bem vindo(a)! Este repositório contém um script Python que lê um arquivo CSV e gera um arquivo SQL com instruções `INSERT` para um banco de dados 🗄️.
+Bem vindo(a)! Este projeto surgiu da minha própria necessidade de extrair muitos dados de arquivos CSV e gerar automaticamente comandos SQL para inserção no banco de dados 🗄️.
+
+Ao precisar lidar com um grande volume de dados e simplificar o processo de inserção em uma tabela de banco de dados, desenvolvi este script Python  que lê um arquivo CSV, transforma os dados e gera um arquivo SQL com as instruções `INSERT` correspondentes.
 
 ## Requisitos 🔧
 
