@@ -36,7 +36,7 @@ INSERT INTO aluno (matricula, nome, data_nascimento, curso) VALUES ('654321', 'B
 
 ## Contribuição 🤝
 
-Se você encontrar algum problema ou quiser sugerir melhorias 💡, fique à vontade para abrir um issue ou enviar um pull request 🔀.
+Se você encontrar algum problema ou quiser sugerir melhorias, fique à vontade para abrir um issue ou enviar um pull request 🔀.
 
 ---
 
